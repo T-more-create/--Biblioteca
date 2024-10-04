@@ -24,9 +24,26 @@
 - Biblioteca: Gerencia a lista de livros com ponteiros para o primeiro e último nós.
 
 # - 💡 Exemplos de Uso
-Adicione um livro:
-Digite o título do livro: O Senhor dos Anéis
-Digite o autor do livro: J.R.R. Tolkien
-Digite o ano de publicação: 1954
+- Adicione um livro:
+- Digite o título do livro: O Senhor dos Anéis
+- Digite o autor do livro: J.R.R. Tolkien
+- Digite o ano de publicação: 1954
+
+- Liste os livros:
+- Livros na biblioteca:
+- Título: O Senhor dos Anéis, Autor: J.R.R. Tolkien, Ano: 1954
+
+- Remova um livro:
+- Digite o título do livro a ser removido: O Senhor dos Anéis
+- Livro 'O Senhor dos Anéis' removido com sucesso!
+
+# - 🧹 Gestão de Memória
+- A função liberar_biblioteca() cuida de liberar a memória de todos os livros ao sair do programa.
+
+# - 🏗️ Contribuição
+- Fique à vontade para abrir issues ou fazer pull requests para melhorias e correções.
+- Feito com ❤️ e C!
+
+
 
 
