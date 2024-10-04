@@ -15,10 +15,14 @@ git clone https://github.com/seu-usuario/biblioteca-c.git
 ```
 
 2 - Compile o código:
-- gcc -o biblioteca biblioteca.c
+``` bash
+gcc -o biblioteca biblioteca.c
+```
 
 3 - Execute o programa:
+``` bash
 - ./biblioteca
+```
 
 # - 📚 Estruturas de Dados
 - Livro: Armazena o título, autor e ano de publicação.
@@ -27,17 +31,23 @@ git clone https://github.com/seu-usuario/biblioteca-c.git
 
 # - 💡 Exemplos de Uso
 - Adicione um livro:
+``` bash
 - Digite o título do livro: O Senhor dos Anéis
 - Digite o autor do livro: J.R.R. Tolkien
 - Digite o ano de publicação: 1954
+```
 
 - Liste os livros:
+``` bash
 - Livros na biblioteca:
 - Título: O Senhor dos Anéis, Autor: J.R.R. Tolkien, Ano: 1954
+```
 
 - Remova um livro:
+``` bash
 - Digite o título do livro a ser removido: O Senhor dos Anéis
 - Livro 'O Senhor dos Anéis' removido com sucesso!
+```
 
 # - 🧹 Gestão de Memória
 - A função liberar_biblioteca() cuida de liberar a memória de todos os livros ao sair do programa.
