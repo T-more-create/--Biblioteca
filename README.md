@@ -25,4 +25,8 @@
 
 # - 💡 Exemplos de Uso
 Adicione um livro:
+Digite o título do livro: O Senhor dos Anéis
+Digite o autor do livro: J.R.R. Tolkien
+Digite o ano de publicação: 1954
+
 
