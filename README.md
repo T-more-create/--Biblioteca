@@ -10,11 +10,7 @@
 
 # - 📋 Como Executar
 1 - Clone o repositório:
-bash git clone https://github.com/seu-usuario/biblioteca-c.git
+- git clone https://github.com/seu-usuario/biblioteca-c.git
 
 
- 🎬 Listar Filmes: Veja a lista completa de filmes disponíveis para aluguel.
-    ➕ Adicionar Filme: Cadastre novos filmes no sistema.
-    ✏️ Editar Filme: Atualize as informações de um filme existente.
-    ❌ Excluir Filme: Remova filmes do sistema.
 
