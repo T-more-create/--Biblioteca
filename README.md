@@ -2,6 +2,26 @@
 
 - Este projeto implementa uma biblioteca de livros simples utilizando listas duplamente encadeadas em C. O sistema permite que você adicione, remova e liste livros, além de cuidar automaticamente da gestão de memória.
 
+# - ⚙ Resumo do Código
+- Este código implementa uma biblioteca de livros utilizando uma lista duplamente encadeada em C. Ele permite adicionar, remover e listar livros, além de gerenciar a memória alocada dinamicamente. A estrutura principal é uma biblioteca, que contém uma lista de nós (cada nó representa um livro com título, autor e ano de publicação).
+
+# - Principais Componentes:
+1 - Estruturas de Dados:
+- Livro: armazena informações do livro (título, autor e ano).
+- Node: representa um nó na lista, contendo um livro e ponteiros para o nó anterior e próximo.
+- Biblioteca: gerencia o início e fim da lista de nós.
+- 
+2 - Funções Principais:
+
+- criar_biblioteca: inicializa a biblioteca.
+- adicionar_livro: insere um novo livro na biblioteca.
+- remover_livro: remove um livro com base no título.
+- listar_livros: exibe todos os livros da biblioteca.
+- liberar_biblioteca: libera a memória alocada pela biblioteca.
+- 
+- Menu de Interação:
+- O usuário interage com o programa através de um menu que oferece as opções de adicionar, remover, listar livros e sair.
+
 # - 🛠️ Funcionalidades
 - Adicionar Livro: Insira um novo livro com título, autor e ano de publicação.
 - Remover Livro: Remova um livro pelo seu título.
