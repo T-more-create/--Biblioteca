@@ -44,6 +44,10 @@
 - Fique à vontade para abrir issues ou fazer pull requests para melhorias e correções.
 - Feito com ❤️ e C!
 
+# - ✍ Finalização:
+- Feito pro:
+- Taíssa Moreira da Silve
+- Maria Carolina de Araújo de Sousa
 
 
 
