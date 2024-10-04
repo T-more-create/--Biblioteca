@@ -78,7 +78,7 @@ Livro 'O Senhor dos Anéis' removido com sucesso!
 
 # - ✍ Finalização:
 - Feito pro:
-- Taíssa Moreira da Silve
+- Taíssa Moreira da Silva
 - Maria Carolina de Araújo de Sousa
 
 
