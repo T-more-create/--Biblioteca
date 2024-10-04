@@ -32,21 +32,21 @@ gcc -o biblioteca biblioteca.c
 # - 💡 Exemplos de Uso
 - Adicione um livro:
 ``` bash
-- Digite o título do livro: O Senhor dos Anéis
-- Digite o autor do livro: J.R.R. Tolkien
-- Digite o ano de publicação: 1954
+Digite o título do livro: O Senhor dos Anéis
+Digite o autor do livro: J.R.R. Tolkien
+Digite o ano de publicação: 1954
 ```
 
 - Liste os livros:
 ``` bash
-- Livros na biblioteca:
-- Título: O Senhor dos Anéis, Autor: J.R.R. Tolkien, Ano: 1954
+Livros na biblioteca:
+Título: O Senhor dos Anéis, Autor: J.R.R. Tolkien, Ano: 1954
 ```
 
 - Remova um livro:
 ``` bash
-- Digite o título do livro a ser removido: O Senhor dos Anéis
-- Livro 'O Senhor dos Anéis' removido com sucesso!
+Digite o título do livro a ser removido: O Senhor dos Anéis
+Livro 'O Senhor dos Anéis' removido com sucesso!
 ```
 
 # - 🧹 Gestão de Memória
