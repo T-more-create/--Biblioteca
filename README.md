@@ -76,7 +76,7 @@ Livro 'O Senhor dos Anéis' removido com sucesso!
 - Fique à vontade para abrir issues ou fazer pull requests para melhorias e correções.
 - Feito com ❤️ e C!
 
-# - ✍ Finalização:
+# - ✍ Finalização
 - Feito por:
 - Taíssa Moreira da Silva
 - Maria Carolina de Araújo de Sousa
