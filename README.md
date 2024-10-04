@@ -12,5 +12,17 @@
 1 - Clone o repositório:
 - git clone https://github.com/seu-usuario/biblioteca-c.git
 
+2 - Compile o código:
+- gcc -o biblioteca biblioteca.c
 
+3 - Execute o programa:
+- ./biblioteca
+
+# - 📚 Estruturas de Dados
+- Livro: Armazena o título, autor e ano de publicação.
+- Node: Cada nó contém um livro e ponteiros para o próximo e anterior nó.
+- Biblioteca: Gerencia a lista de livros com ponteiros para o primeiro e último nós.
+
+# - 💡 Exemplos de Uso
+Adicione um livro:
 
