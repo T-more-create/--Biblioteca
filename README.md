@@ -72,6 +72,9 @@ Livro 'O Senhor dos Anéis' removido com sucesso!
 # - 🧹 Gestão de Memória
 - A função liberar_biblioteca() cuida de liberar a memória de todos os livros ao sair do programa.
 
+# - 🎥 Vídeo Tutorial
+- Para uma explicação visual do código e de suas funcionalidades, confira este vídeo no YouTube: [Link do vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_LINK).
+
 # - 🏗️ Contribuição
 - Fique à vontade para abrir issues ou fazer pull requests para melhorias e correções.
 - Feito com ❤️ e C!
