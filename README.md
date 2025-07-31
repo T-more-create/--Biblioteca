@@ -57,7 +57,7 @@ Digite o autor do livro: J.R.R. Tolkien
 Digite o ano de publicação: 1954
 ```
 
-- Liste os livros:
+-- Liste os livros:
 ``` bash
 Livros na biblioteca:
 Título: O Senhor dos Anéis, Autor: J.R.R. Tolkien, Ano: 1954
